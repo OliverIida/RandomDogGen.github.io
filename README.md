@@ -1,1 +1,1 @@
-# RandomDogGenerator.github.io
+# RandomDogGenerator
