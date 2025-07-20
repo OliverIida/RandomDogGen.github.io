@@ -40,3 +40,12 @@ button:active {
   box-shadow: 0 2px 4px rgba(0,0,0,0.2);
 }
 
+.cool {
+  padding: 12px 24px;
+  font-size: 16px;
+  background-color: red;
+  color: white;
+  border-radius: 80px;
+  margin-top: 40px;
+  margin: 40px 280px;
+}
